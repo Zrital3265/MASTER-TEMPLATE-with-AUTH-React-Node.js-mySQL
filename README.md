@@ -1,4 +1,3 @@
-# This is only a template to start a new project using React, Node and MySQL with **Authorization and Authentication in front and back**
 
 ![This is an image](Frontend/src/Assets/Images/logo.png)
 
